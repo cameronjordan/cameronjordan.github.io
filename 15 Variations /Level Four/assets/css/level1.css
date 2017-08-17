@@ -1,0 +1,152 @@
+
+#head {
+  border-bottom-color: 5px solid black;
+   float: center;
+}
+
+#head1 {
+  text-align: center;
+  padding-bottom: 485px
+
+}
+
+
+}
+
+
+.p1 {
+  color: red
+}
+
+.p2 {
+margin-left: 50px
+
+}
+
+.p3 {
+  margin-left: 75px
+}
+
+.p4 {
+  margin-left: 100px
+}
+
+.dis {
+font-style: normal;
+font-family: monospace;
+font-size: 14pt
+}
+
+.l1 {
+  margin-left: 125px
+  font-style: italic;
+}
+
+.n1 {
+  margin-left: 150px
+}
+
+.n2 {
+  margin-left: 175px
+}
+
+.n3 {
+  margin-left: 200px
+}
+
+.n4 {
+margin-left: 225px
+}
+
+.w1 {
+
+  padding-left:400px;
+}
+
+.w2 {
+  font-size: 12px
+}
+
+.ad {
+margin-left: 30px
+}
+
+.graph {
+  font-size: 26px
+}
+
+.n1 {
+  margin-left: 350px
+}
+
+.a2 {
+  padding-right: 600px
+
+}
+
+.e1 {
+  padding-left: 600px
+}
+
+.gd {
+  border: 4px
+}
+
+.ex1 {
+  border: 1px
+}
+
+.in {
+  padding-left: 200px
+}
+
+.t1 {
+    font-family: monospace;
+    font-size: 20pt;
+    line-height: 20px;
+    color: red;
+    position: fixed;
+    border: 4px solid red;
+    border-style: groove;
+
+
+
+}
+
+
+
+
+#af {
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 10px;
+  color: blue;
+  padding-left: 800px
+
+
+}
+
+#r1 {
+  font-family: monospace;
+  font-size: 50pt;
+  text-align: center;
+  align-content: center;
+  padding-left: 400px;
+  padding-right: 400px;
+  text-transform: uppercase;
+}
+
+#ne1 {
+  font-family: monospace;
+  font-size: 40pt;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+#th1 {
+  text-transform: capitalize;
+  font-family: monospace;
+  text-align: center;
+  font-size: 40pt
+
+}
