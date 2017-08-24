@@ -1,47 +1,55 @@
-/* Start here */
 
-body {
-    width: 2000px;
-    height: 3000px;
+#mf1 {
+
+  font-family: monospace;
+  padding-right: 800px;
+  padding-left: 25px;
+  border-left: 4px dashed black;
+
+}
+.text-align {
+text-align:center;
+}
+
+#dis1 {
+
+font-family: monospace;
+font-size: 28px;
+padding-left: 25px;
+
+}
+
+#ex1 {
+
+  padding-right: 25px;
+  text-align: right;
+  font-size: 24px;
+  font-family: monospace;
+
 }
 
 
-#pug {
-    border: 2px red dashed;
-    
-    position: fixed;
-    left: 400px;
+#secondid {
+text-align: right;
+font-family: monospace;
+padding-left: 800px;
+padding-right: 25px;
+border-right: 4px dashed black;
 }
 
+#threem {
 
-.outer {
-    width: 800px;
-    height: 100px;
-    background-color: aquamarine;
-    
-    margin-left: 100px;
-    padding-left: 20px;
-    margin-top: 500px;
-    padding-top: 10px;
+  font-family: monospace;
+ padding-right: 800px;
+ padding-left: 25px;
+ border-left: 4px dashed black;
 }
 
-.inner {
-    width: 300px;
-    height: 50px;
-    background-color: yellow;
-    
-    padding: 10px 10px 20px 30px;
-    
-    font-family: 'Comic Sans', 'Helvetica', sans-serif;
-    letter-spacing: 20px;
-    
-    float: right;
-    
-    -webkit-transform: rotateZ(30deg); /* Safari */
-    transform: rotateZ(30deg);
-}
+#four {
 
-#pug {
-    width: auto;
+  font-family: monospace;
+  text-align: right;
+ padding-left: 800px;
+ padding-right: 25px;
+ border-right: 4px dashed black;
 }
-

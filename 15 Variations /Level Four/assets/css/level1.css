@@ -150,3 +150,26 @@ margin-left: 30px
   font-size: 40pt
 
 }
+
+#af22 {
+  font-family: sans-serif;
+  font-size: 14px;
+padding-left: 350px;
+padding-right: 350px;
+color: #00cc00;
+text-transform: lowercase;
+line-height: 10px;
+text-align: right;
+}
+
+
+#hed1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  text-transform: lowercase;
+  line-height: 20px;
+  letter-spacing: 5px;
+
+#mf1

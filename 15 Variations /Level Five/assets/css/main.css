@@ -1,0 +1,99 @@
+
+#mf1 {
+
+  font-family: monospace;
+  padding-right: 800px;
+  padding-left: 25px;
+  border-left: 4px dashed black;
+
+}
+.text-align {
+text-align:center;
+}
+
+#dis1 {
+
+font-family: monospace;
+font-size: 28px;
+padding-left: 25px;
+
+}
+
+#ex1 {
+
+  padding-right: 25px;
+  text-align: right;
+  font-size: 24px;
+  font-family: monospace;
+
+}
+
+
+#secondid {
+text-align: right;
+font-family: monospace;
+padding-left: 800px;
+padding-right: 25px;
+border-right: 4px dashed black;
+}
+
+#threem {
+
+  font-family: monospace;
+ padding-right: 800px;
+ padding-left: 25px;
+ border-left: 4px dashed black;
+}
+
+#four {
+
+  font-family: monospace;
+  text-align: right;
+ padding-left: 800px;
+ padding-right: 25px;
+ border-right: 4px dashed black;
+}
+
+
+
+#hed1 {
+position: fixed;
+font-family: sans-serif;
+font-size: 12px;
+padding-left: 20px;
+width: 200px;
+height: 200px;
+border: 2px dashed;
+background-color: red;
+color: white;
+box-shadow: 5px 5px 3px 1px #999
+}
+
+#afor {
+
+font-family: serif;
+padding-left: 800px;
+text-align: left;
+color: red;
+
+
+}
+
+#sec2 {
+
+font-family: serif;
+padding-left: 800px;
+text-align: left;
+color: red;
+}
+
+#sec3 {
+
+font-family: serif;
+padding-left: 800px;
+color: red;
+text-transform:
+
+text-align: left;
+
+}
